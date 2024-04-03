@@ -1,0 +1,17 @@
+CUDA isntallation:
+https://docs.nvidia.com/cuda/wsl-user-guide/
+CUDA Toolkit install:
+https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=WSL-Ubuntu&target_version=2.0&target_type=runfile_local
+CUDA installation guide:
+https://docs.nvidia.com/cuda/cuda-installation-guide-linux/
+
+RAPIDS installation (make sure to select the correct CUDA Toolkit version and Python version):
+https://docs.rapids.ai/install?_gl=1*cm83gj*_ga*MTIwNzk1MzU3Mi4xNzA5Mjc3NTgx*_ga_RKXFW6CM42*MTcwOTI4MDU1My4xLjEuMTcwOTI4MDYxMC4zLjAuMA..#selector
+
+WSL memory:
+To increase SWAP size (virtual memory) on WSL, following the steps in the link:
+https://blog.cloud-eng.nl/2021/02/03/wsl2-limits-vmmem/
+WSL info:
+https://learn.microsoft.com/en-us/windows/wsl/wsl-config
+
+timedatectl is still an issue, NTP cannot be set
