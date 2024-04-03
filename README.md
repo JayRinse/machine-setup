@@ -1,6 +1,7 @@
-## ¿En Español?
+## Additional info for Ominor
 
-Haz clic en <a href="README.es.md">este link</a> para acceder a la versión en español del setup.
+Please check additional_info.txt and follow the links when appropriate during the setup phase.
+Ignore all Le Wagaon references (environment names etc.)
 
 ## In English
 
